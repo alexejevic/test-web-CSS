@@ -51,7 +51,7 @@ body {
 
 /* Active/current link */
 .navbar a.active {
-  background-color: #666;
+  background-color: rgb(160, 190, 255);
   color: white;
 }
 
@@ -93,7 +93,7 @@ body {
 .post {
   margin-bottom: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: rgb(100, 100, 100);
   border: 10px solid #ccc;
 }
 
