@@ -92,7 +92,7 @@ body {
 /* Basic styles for the post */
 .post {
   margin-bottom: 50px;
-  padding: 20px;
+  padding: 0px;
   background-color: rgb(100, 100, 100);
   border: 10px solid #ccc;
 }
